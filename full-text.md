@@ -1145,8 +1145,3 @@ His memory was kept green by the Venetians for generations and centuries after h
 Thus lived, and thus died at the goodly age of three-score and ten, the greatest of the early explorers of the remote and unknown regions of the Orient; who may be said to have introduced Europe and Asia to each other, and to have discovered the vast possibilities of a commerce between the two continents. He thus did invaluable service to the world; and it is pleasant to remember that, after all the perils and vicissitudes through which he passed, the long and weary exile from home that he suffered, and the subsequent misfortune he encountered while fighting for the preservation of Venice, he reaped the full reward of his perseverance and patriotism, and enjoyed a long after-life of prosperity, honor, happiness and domestic bliss; and that his memory still lives, his name being written high up on the roll of the world's most illustrious discoverers and benefactors.
 
 THE END.
-
-\
-![](c.jpg)
-
-</div>
