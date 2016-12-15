@@ -1,6 +1,6 @@
 # Marco Polo: His Travels and Adventures
 
-* [Preface](#Preface)
+* [Preface](full-text.md/#Preface)
 * [1. The Return of the Wanderers](#01)
 * [2. Marco Polo's Youth](#02)
 * [3. Marco Polo Sets Forth](#03)
