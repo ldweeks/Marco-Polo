@@ -1,3 +1,4 @@
+# Preface
 (#Preface)
 
 The reader is carried back, in the present volume, to a period two centuries previous to the discovery of the route to India by Vasco da Gama, and to the conquest of Peru by Pizarro. A young Venetian of the thirteenth century, brought up amid luxury and wealth, of a bold spirit and a curious mind, went forth from his home in the beautiful Queen City of the Adriatic, and for many years lived among a far-off Asiatic people, and at a court of barbaric and yet splendid pomp.
